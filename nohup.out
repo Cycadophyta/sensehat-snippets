@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "xmas_tree.py", line 1, in <module>
+    from sense_hat import SenseHat
+ImportError: No module named sense_hat
